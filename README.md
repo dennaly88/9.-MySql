@@ -47,5 +47,34 @@ ________________________________________________________________________________
 🗓️ Año: 2025
 ______________________________________________________________________________________________________________________________________________________________
 
-📋 Material Cubierto
+📋 Temario del Curso 
 __________________________
+
+1.  Tipos de Comandos       = ✅
+2.  Crear Bases de Datos    = ✅   
+3.  Borrar Bases de Datos   = ✅
+4.  Crear Tablas            = ✅
+5.  Eliminar Tablas         = ✅
+6.  Alterar Tablas          = ✅
+7.  Insertar Datos          = ✅
+8.  Actualizar Datos        = ✅
+9.  Borrar Datos            = ✅
+10. Consultar Datos         = ✅ 
+11. Relacion entre Tablas   = ✅ 
+12. Vaciar Registros        = ✅  
+13. Renombrar Tabla         = ✅  
+14. Privilegios             = ✅
+15. Comandos por Terminal   = ✅
+16. Control de Operaciones  = ✅
+17. GROUP BY                = ✅
+18. HAVING                  = ✅
+19. ORDEN BY                = ✅
+20. Funciones de Agregación = ✅
+21. Subconsultas            = ✅
+22. Vistas                  = ✅
+23. Índices                 = ✅
+24. Joins                   = ✅
+25. Triggers                = ✅
+26. Usuarios y Privilegios  = ✅
+27. MySqlDump               = ✅
+28. Ejercicios              = ✅
